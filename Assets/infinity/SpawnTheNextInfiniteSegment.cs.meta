@@ -1,0 +1,14 @@
+fileFormatVersion: 2
+guid: 4e10275cdf96283449c12f2aa46ba14f
+MonoImporter:
+  externalObjects: {}
+  serializedVersion: 2
+  defaultReferences:
+  - theDefinitionOfInsanity: {instanceID: 0}
+  - pleaseToPut: {instanceID: 0}
+  - editorTexture: {fileID: 2800000, guid: 2ba15f08923a6b44492bb29801826f9c, type: 3}
+  executionOrder: 0
+  icon: {instanceID: 0}
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
